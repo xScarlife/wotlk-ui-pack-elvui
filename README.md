@@ -20,6 +20,4 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 
 Thanks for reading, have fun!
 
-Thanks for reading, have fun!
-
-    xScarlife
+- xScarlife
