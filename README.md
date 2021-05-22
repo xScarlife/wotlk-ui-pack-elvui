@@ -22,6 +22,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 3) Deadly Boss Mods: https://www.curseforge.com/wow/addons/deadly-boss-mods
 4) TSM Classic: https://www.tradeskillmaster.com/install
 5) Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
+6) Routes TBC: https://www.dkpminus.com/wow/addons/routes/
 
 Thanks for reading, have fun!
 
