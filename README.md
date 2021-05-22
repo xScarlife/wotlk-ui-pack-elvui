@@ -18,14 +18,8 @@ ElvUI: The main interface I use is ElvUI but this is not included in the addon p
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
 1) Atlasloot Classic: https://www.curseforge.com/wow/addons/atlaslootclassic
-2) Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
-3) Deadly Boss Mods: https://www.curseforge.com/wow/addons/deadly-boss-mods
-4) TSM Classic: https://www.tradeskillmaster.com/install
-5) Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
-6) Routes TBC: https://www.dkpminus.com/wow/addons/routes/
-7) Details: https://legacy-wow.com/tbc-burning-crusade-classic-wow-addons/details-damage-meter-burning-crusade/
-8) Weakauras: https://www.curseforge.com/wow/addons/weakauras-2
-9) Gathermate: https://www.curseforge.com/wow/addons/gathermate2
+2) TSM Classic: https://www.tradeskillmaster.com/install
+3) Questie: https://www.curseforge.com/wow/addons/questie
 
 Thanks for reading, have fun!
 
