@@ -18,7 +18,9 @@ ElvUI: The main interface I use is ElvUI but this is not included in the addon p
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
 1) Atlasloot Classic: https://www.curseforge.com/wow/addons/atlaslootclassic
-2) Speedymount: https://www.curseforge.com/wow/addons/speedymount
+2) Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
+3) Deadly Boss Mods: https://www.curseforge.com/wow/addons/deadly-boss-mods
+4) TSM Classic: https://www.tradeskillmaster.com/install
 
 Thanks for reading, have fun!
 
