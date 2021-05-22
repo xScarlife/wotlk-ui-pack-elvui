@@ -25,6 +25,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 6) Routes TBC: https://www.dkpminus.com/wow/addons/routes/
 7) Details: https://legacy-wow.com/tbc-burning-crusade-classic-wow-addons/details-damage-meter-burning-crusade/
 8) Weakauras: https://www.curseforge.com/wow/addons/weakauras-2
+9) Gathermate: https://www.curseforge.com/wow/addons/gathermate2
 
 Thanks for reading, have fun!
 
