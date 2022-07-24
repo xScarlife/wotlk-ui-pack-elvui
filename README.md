@@ -23,7 +23,7 @@ Please note that you'll need to setup the addons how you like it. I cannot share
 The main interface I use is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by clicking this link: **https://wago.io/RDeRRvZph**.
 
 If you want to make sure you install up to date versions of the addons, here are the links. Please make sure you download the TBC versions of these addons:
-1)	Atlasloot: https://www.curseforge.com/wow/addons/atlaslootclassic
+1)	[Atlasloot](https://www.curseforge.com/wow/addons/atlaslootclassic)
 2)	Aux: https://www.curseforge.com/wow/addons/aux
 3)	ClassicLFG: https://www.curseforge.com/wow/addons/classiclfg
 4)	DBM: https://www.curseforge.com/wow/addons/deadly-boss-mods
@@ -42,6 +42,7 @@ If you want to make sure you install up to date versions of the addons, here are
 17)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
 18)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
 19)	ElvUI: https://www.tukui.org/classic-tbc-addons.php?id=2
+20)	This site was built using [GitHub Pages](https://pages.github.com/)
 
 Thanks for reading, have fun!
 
