@@ -43,6 +43,11 @@ If you want to make sure you install up to date versions of the addons, here are
 18)	[Xtolevel](https://www.curseforge.com/wow/addons/xto-level)
 19)	[ElvUI](https://www.tukui.org/classic-tbc-addons.php?id=2)
 
+## Questions 
+**Where can I find the Details Import string?**
+```
+This can be found on the Github page as a text file that you can copy over.
+```
 
 Thanks for reading, have fun!
 
