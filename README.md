@@ -7,9 +7,9 @@ If you don't know how to install addons manually, please watch my video where I 
 
 ## Installation
 
-``
+`
 Open the .rar file and this will contain all the addons I use. You can simply drag and drop the folder over to your WoW Classic addons folder mostly located on your main C: drive like so, C:\World of Warcraft\_classic_\Interface\AddOns.
-``
+`
 
 Extra: If you can't open .rar files, you can download WinRAR here: https://www.win-rar.com/download.html?&L=0
 
