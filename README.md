@@ -42,7 +42,7 @@ If you want to make sure you install up to date versions of the addons, here are
 17)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
 18)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
 19)	ElvUI: https://www.tukui.org/classic-tbc-addons.php?id=2
-20)	This site was built using [GitHub Pages](https://pages.github.com/)
+
 
 Thanks for reading, have fun!
 
