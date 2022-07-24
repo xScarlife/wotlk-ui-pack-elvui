@@ -48,7 +48,7 @@ If you want to make sure you install up to date versions of the addons, here are
 ![Details Profile](https://user-images.githubusercontent.com/24465574/180670939-5fbf9879-36a4-49a5-bbc1-61e3861dd780.png)
 
 ```
-This can be found on the Github page as a text file that you can copy over.
+This can be found on the top of the page as a text file that you can copy over.
 ```
 
 Thanks for reading, have fun!
