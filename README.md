@@ -45,6 +45,8 @@ If you want to make sure you install up to date versions of the addons, here are
 
 ## Questions 
 **Where can I find the Details Import string?**
+![Details Profile](https://user-images.githubusercontent.com/24465574/180670939-5fbf9879-36a4-49a5-bbc1-61e3861dd780.png)
+
 ```
 This can be found on the Github page as a text file that you can copy over.
 ```
