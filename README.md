@@ -24,7 +24,7 @@ The main interface I use is ElvUI but this is not included in the addon package.
 
 If you want to make sure you install up to date versions of the addons, here are the links. Please make sure you download the TBC versions of these addons:
 1)	[Atlasloot](https://www.curseforge.com/wow/addons/atlaslootclassic)
-2)	[Aux](https//www.curseforge.com/wow/addons/aux)
+2)	[Aux](https://www.curseforge.com/wow/addons/aux)
 3)	[ClassicLFG](https://www.curseforge.com/wow/addons/classiclfg)
 4)	[DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)
 5)	[Details](https://www.curseforge.com/wow/addons/details)
