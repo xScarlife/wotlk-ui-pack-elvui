@@ -32,7 +32,7 @@ If you want to make sure you install up to date versions of the addons, here are
 7)	[Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus-bcc)
 8)	[Leatrix Maps](https://www.curseforge.com/wow/addons/leatrix-maps-bcc)
 9)	[Nova World Buffs](https://www.curseforge.com/wow/addons/nova-world-buffs)
-10)	[oGlow](https://legacy-wow.com/tbc-addons/oglow/)
+10)	[oGlow](https://www.curseforge.com/wow/addons/oglowclassic)
 11)	[Pawn](https://www.curseforge.com/wow/addons/pawn)
 12)	[Questie](https://www.curseforge.com/wow/addons/questie)
 13)	[Titan Panel](https://www.curseforge.com/wow/addons/titan-panel-classic)
