@@ -44,7 +44,9 @@ If you want to make sure you install up to date versions of the addons, here are
 16)	[TSM](https://www.tradeskillmaster.com/install)
 17)	[Weakaura’s](https://www.curseforge.com/wow/addons/weakauras-2)
 18)	[Xtolevel](https://www.curseforge.com/wow/addons/xto-level)
-19)	[ElvUI](https://www.tukui.org/classic-wotlk-addons.php?id=2)
+19) [Routes](https://www.curseforge.com/wow/addons/routes)
+20) [Routes Import&Export](https://www.curseforge.com/wow/addons/routes-import-export)
+21)	[ElvUI](https://www.tukui.org/classic-wotlk-addons.php?id=2)
 
 ## Questions 
 **Where can I find the Details Import string?**
