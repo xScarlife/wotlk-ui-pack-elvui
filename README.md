@@ -25,7 +25,7 @@ Please note that you'll need to setup the addons how you like it. I cannot share
 ## ElvUI
 The main interface I use is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by copying the content from the **XSCARLIFE WOTLK ELVUI PROFILE** file which you can find on top of this Github page and paste that into your ElvUI import section.
 
-If you want to make sure you install up to date versions of the addons, here are the links. Please make sure you download the TBC versions of these addons:
+If you want to make sure you install up to date versions of the addons, here are the links. Please make sure you download the Wotlk versions of these addons:
 1)	[Atlasloot](https://www.curseforge.com/wow/addons/atlaslootclassic)
 2)	[Aux](https://www.curseforge.com/wow/addons/aux)
 3)	[ClassicLFG](https://www.curseforge.com/wow/addons/classiclfg)
