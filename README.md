@@ -3,7 +3,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
 
-If you want to support me **[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
+<a href="https://www.buymeacoffee.com/xscarlife" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ![xScarlife_TBC_ElvUI_Profile](https://user-images.githubusercontent.com/24465574/180670369-ae41d9e6-d44c-4c8f-86df-7ce026348152.png)
 ### You are not allowed to share or upload this ElvUI profile to other sources or claim it to be your own without the creator's permission.
